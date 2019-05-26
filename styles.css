@@ -90,6 +90,30 @@ nav ul li ul li a:hover {
     text-decoration: underline;
 }
 
+#content {
+   padding-left: 50px;
+}
+
+.remember {
+    max-width: 60%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ol li a {
+    color: #5F5F5F;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ol li a:hover{
+    color: lightcoral;
+}
+
+ol p {
+    font-size: 16px;
+}
+
 .column {
     min-width: 259px;
     display: inline-block;
